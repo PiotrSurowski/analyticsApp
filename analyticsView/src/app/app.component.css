@@ -1,0 +1,17 @@
+.flex{
+  width: 40%;
+  position: absolute;
+}
+#tableContainer {
+  width: 100%;
+}
+table {
+  width: 40%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  min-width: 500px;
+}
+th.mat-header-cell {
+  text-align: left;
+  max-width: 300px;
+}
